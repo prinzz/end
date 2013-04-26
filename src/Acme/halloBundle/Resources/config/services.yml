@@ -1,0 +1,7 @@
+parameters:
+#    acmehallo.example.class: acme\halloBundle\Example
+
+services:
+#    acmehallo.example:
+#        class: %acmehallo.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

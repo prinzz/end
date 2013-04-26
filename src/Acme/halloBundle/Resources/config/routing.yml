@@ -1,0 +1,3 @@
+acmehallo_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: acmehalloBundle:Default:index }

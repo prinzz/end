@@ -1,0 +1,4 @@
+acmehallo:
+    resource: "@acmehalloBundle/Resources/config/routing.yml"
+    prefix:   /
+
